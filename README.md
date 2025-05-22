@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy SergioBM
 
-<!--
-**ElCoronaoV2/ElCoronaoV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) - 1er año  
+###  💻 Graduado en Sistemas Microinformáticos y Redes (SMR) 
+### 🚀 Apasionado por la tecnología, el desarrollo de software y el aprendizaje continuo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SergioBM&theme=transparent&locale=es)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElCoronaoV2&hide_progress=true)
+
+### 👨‍💻 Sobre mí
+
+- Actualmente curso **1º de DAM** donde desarrollo proyectos en **Java, SQL, HTML, CSS y JavaScript**.
+- Tengo formación previa en **Sistemas Microinformáticos y Redes**, lo que me dio una sólida base en hardware, redes y sistemas operativos.
+- Me encanta explorar nuevas tecnologías, desde el desarrollo web hasta el mundo de los videojuegos y los sistemas operativos.
+- Estoy construyendo mi portafolio y aprendiendo buenas prácticas de desarrollo y control de versiones con **Git y GitHub**.
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+- Lenguajes: `Java`, `HTML`, `CSS`, `JavaScript`, `SQL`
+- Bases de datos: `MySQL`, `SQLite`
+- Entornos: `NetBeans`, `VSCode`, `Scene Builder`
+- Otros: `Git`, `GitHub`, `Windows`, `Linux`, `VirtualBox`, `Packet Tracer`
+
+---
+
+### 📫 ¿Quieres contactarme?
+
+- ✉️ sergiobernalfp@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergiobernalmz/)
+- 🌐 ¡Más contenido próximamente!
+
+---
+
+> _"Sigue aprendiendo. Sigue creando."_ 🚀
