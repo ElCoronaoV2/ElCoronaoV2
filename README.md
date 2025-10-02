@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy SergioBM
 
 
-###  📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) - 1er año  
+###  📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) - 2º año  
 ###  💻 Graduado en Sistemas Microinformáticos y Redes (SMR) 
 ### 🚀 Apasionado por la tecnología, el desarrollo de software y el aprendizaje continuo
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- Actualmente curso **1º de DAM** donde desarrollo proyectos en **Java, SQL, HTML, CSS y JavaScript**.
+- Actualmente curso **2º de DAM** donde desarrollo proyectos en **Java, SQL, HTML, CSS, JavaScript, TypeScript, Vite, React...**.
 - Tengo formación previa en **Sistemas Microinformáticos y Redes**, lo que me dio una sólida base en hardware, redes y sistemas operativos.
 - Me encanta explorar nuevas tecnologías, desde el desarrollo web hasta el mundo de los videojuegos y los sistemas operativos.
 - Estoy construyendo mi portafolio y aprendiendo buenas prácticas de desarrollo y control de versiones con **Git y GitHub**.
